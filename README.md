@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> 🚀 &nbsp;Some Tools We've Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools We've used and learned</h2>
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
