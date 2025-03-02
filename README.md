@@ -6,6 +6,7 @@
 </a>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## Group members
 - [Lee Boon Giin (Bryan)](contributors/bryanlbg.md)
 - [Daokuan Wu (Quin)](contributors/DaokuanWu.md)
@@ -16,11 +17,13 @@
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## Overview
 [Lab 02: Textual Analysis and Use Case Diagram](docs/lab2.md)
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h2> 🚀 &nbsp;Some Tools We've Have Used and Learned</h2>
 <p align="left">
 
