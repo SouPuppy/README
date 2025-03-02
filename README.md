@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Welcome+to+We+like+SE;Business+Analyst" alt="Business Analyst"/>
 </a>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Group members
+<h2>Group members</h2>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 - [Lee Boon Giin (Bryan)](contributors/bryanlbg.md)
 - [Daokuan Wu (Quin)](contributors/DaokuanWu.md)
 - [Li Yufei](contributors/LiYufei.md)
@@ -16,16 +16,15 @@
 - [Yuchang Zuo](contributors/YuchangZuo.md)
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Overview
+<h2>Overview</h2>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 [Lab 02: Textual Analysis and Use Case Diagram](docs/lab2.md)
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2> 🚀 &nbsp;Some Tools We've Have Used and Learned</h2>
-<p align="left">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
