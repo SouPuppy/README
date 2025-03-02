@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello+there;Welcome+to+'We+like+SE'" alt="Welcome"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello+there,;Welcome+to+'We+like+SE'" alt="Welcome"/>
 </a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>Group members</h2>
+
 - [Lee Boon Giin (Bryan)](contributors/bryanlbg.md)
 - [Daokuan Wu (Quin)](contributors/DaokuanWu.md)
 - [Li Yufei](contributors/LiYufei.md)
